@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Curiosidades</string>
+
+    <string name="boton_expandido">Botón para expandir curiosidad</string>
+
+    <string name="dia1_texto">Alemania</string>
+    <string name="dia2_texto">Argentina</string>
+    <string name="dia3_texto">Belgica</string>
+    <string name="dia4_texto">Brasil</string>
+    <string name="dia5_texto">Canada</string>
+    <string name="dia6_texto">Chile</string>
+    <string name="dia7_texto">China</string>
+    <string name="dia8_texto">Colombia</string>
+    <string name="dia9_texto">Corea del Sur</string>
+    <string name="dia10_texto">Costa Rica</string>
+    <string name="dia11_texto">Cuba</string>
+    <string name="dia12_texto">Dinamarca</string>
+    <string name="dia13_texto">Egipto</string>
+    <string name="dia14_texto">España</string>
+    <string name="dia15_texto">Estados unidos</string>
+    <string name="dia16_texto">Francia</string>
+    <string name="dia17_texto">Marruecos</string>
+    <string name="dia18_texto">Grecia</string>
+    <string name="dia19_texto">Paises Bajos</string>
+    <string name="dia20_texto">India</string>
+
+    <string name="dia22_texto">Mexíco</string>
+    <string name="dia23_texto">Noruega</string>
+    <string name="dia24_texto">Nueva Zelanda</string>
+    <string name="dia25_texto">Perú</string>
+    <string name="dia26_texto">Polonia</string>
+    <string name="dia27_texto">Portugal</string>
+    <string name="dia28_texto">Turquía</string>
+    <string name="dia29_texto">Rusia</string>
+    <string name="dia30_texto">Islandia"</string>
+    <string name="dia21_texto">Italia</string>
+
+    <string name="dia1_descripcion">El castillo de Neuschwanstein, que inspiró los cuentos de hadas de Disney, fue construido por el "rey romántico" Luis II.</string>
+    <string name="dia2_descripcion">El país es hogar del dinosaurio más grande jamás descubierto, el Argentinosaurus, que medía más de 40 metros.</string>
+    <string name="dia3_descripcion">Tiene más castillos por kilómetro cuadrado que cualquier otro país del mundo, alrededor de 3.000 en total.</string>
+    <string name="dia4_descripcion">En el carnaval de Río, es costumbre que las personas intercambien besos con extraños, conocidos como "beijos de carnaval", creando un ambiente amoroso y festivo.</string>
+    <string name="dia5_descripcion">En Terranova, puedes ver icebergs flotando cerca de la costa, provenientes de glaciares del Ártico, ¡una escena impresionante cada primavera!</string>
+    <string name="dia6_descripcion">El desierto de Atacama es uno de los lugares más secos de la Tierra, y algunas partes no han registrado lluvias en siglos.</string>
+    <string name="dia7_descripcion">La Gran Muralla China no es visible desde el espacio a simple vista, un mito muy extendido, pero falso. Sin embargo, su longitud es increíble: ¡más de 21.000 km!</string>
+    <string name="dia8_descripcion">Colombia es el mayor exportador de esmeraldas en el mundo, produciendo el 80% de las esmeraldas del mercado mundial.</string>
+    <string name="dia9_descripcion">En el Día de los Solteros, cada 11 de noviembre, las personas que no tienen pareja celebran comprando pasteles en forma de palito conocidos como "Pepero".</string>
+    <string name="dia10_descripcion">Aunque es un país pequeño, alberga el 5% de la biodiversidad mundial y no tiene ejército desde 1949, invirtiendo en educación y salud.</string>
+    <string name="dia11_descripcion">En Trinidad, las parejas dejan flores y cartas en el altar de la iglesia de San Francisco de Paula, pidiendo bendiciones para sus relaciones.</string>
+    <string name="dia12_descripcion">La bandera de Dinamarca, conocida como "Dannebrog", es la bandera nacional más antigua del mundo aún en uso, data del año 1219.</string>
+    <string name="dia13_descripcion">La Gran Pirámide de Giza es la única de las Siete Maravillas del Mundo Antiguo que aún existe, ¡con más de 4,500 años de antigüedad!</string>
+    <string name="dia14_descripcion">La Sagrada Familia en Barcelona ha estado en construcción durante más de 140 años, y su finalización está prevista para 2026.</string>
+    <string name="dia15_descripcion">El Parque Nacional de Yellowstone es el primer parque nacional del mundo, establecido en 1872, y tiene la caldera volcánica más grande del continente.</string>
+    <string name="dia16_descripcion">En París, los "murales del amor" tienen escritas la palabra "te amo" en más de 300 idiomas, siendo un popular sitio de propuestas matrimoniales.</string>
+    <string name="dia18_descripcion">El Maratón, la famosa carrera de 42 km, tiene su origen en Grecia cuando un mensajero corrió desde Maratón a Atenas para anunciar la victoria griega.</string>
+    <string name="dia19_descripcion">Los Países Bajos son tan bajos en altitud que aproximadamente un tercio de su territorio está por debajo del nivel del mar.</string>
+    <string name="dia20_descripcion">El Kumbh Mela es el mayor festival religioso del mundo, y en la última edición participaron más de 100 millones de personas.</string>
+    <string name="dia21_descripcion">En Verona, la ciudad de Romeo y Julieta, las parejas dejan notas y mensajes de amor en la casa de Julieta, buscando bendiciones para su relación.</string>
+    <string name="dia22_descripcion">Tiene una de las redes de pirámides más grandes del mundo, con la Pirámide de Cholula siendo la más grande por volumen.</string>
+    <string name="dia23_descripcion">Es conocida por su fenómeno natural del sol de medianoche, donde en ciertas partes del país el sol no se pone durante semanas en verano.</string>
+    <string name="dia24_descripcion">Fue el primer país del mundo en otorgar el derecho al voto a las mujeres, en 1893.</string>
+    <string name="dia25_descripcion">El Cañón del Colca en Perú es el doble de profundo que el Gran Cañón en Estados Unidos, alcanzando más de 4,000 metros de profundidad.</string>
+    <string name="dia26_descripcion">Varsovia, la capital de Polonia, fue completamente destruida durante la Segunda Guerra Mundial y reconstruida minuciosamente después del conflicto.</string>
+    <string name="dia27_descripcion">La biblioteca de la Universidad de Coimbra en Portugal tiene murciélagos que protegen los libros antiguos de insectos, una tradición centenaria.</string>
+    <string name="dia28_descripcion"> Santa Sofía en Estambul fue una catedral cristiana, luego mezquita y ahora museo, y es famosa por su cúpula masiva y su historia multi-religiosa.</string>
+    <string name="dia29_descripcion">En Moscú, el "Árbol de los Enamorados" es una escultura metálica donde las parejas cuelgan candados como símbolo de su amor inquebrantable.</string>
+    <string name="dia30_descripcion">Tiene más de 130 volcanes activos y apagados. Además, es uno de los pocos lugares donde se pueden ver placas tectónicas a simple vista.</string>
+    <string name="dia17_descripcion">El mercado de Marrakech, conocido como Jemaa el-Fnaa, es uno de los más grandes y antiguos del mundo, lleno de encantadores de serpientes y vendedores ambulantes.</string>
+</resources>
